@@ -1,6 +1,6 @@
-module github.com/gmlewis/go-fonts-y/fonts/yesevaone
+module github.com/gmlewis/go-fonts-y/fonts/yikatu
 
-go 1.22.4
+go 1.22.5
 
 require github.com/gmlewis/go-fonts v0.19.0
 
